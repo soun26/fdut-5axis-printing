@@ -10,7 +10,7 @@ The demonstrator supports studying multi-axis printing workflows before physical
 machine validation. Full-machine collision checking remains future work.
 
 The source code is maintained in a private repository.
-[Contact me for source access →](https://github.com/soun26/fdut-5axis-printing/issues/new?title=Source%20access%20request)
+[Request access](https://github.com/soun26/fdut-5axis-printing/issues/new?title=Source%20access%20request)
 
 [Soun](https://github.com/soun26) · Mechanical Engineering
 
