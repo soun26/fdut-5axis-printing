@@ -3,7 +3,7 @@
 Research into print orientation and coordinated motion for plastic additive
 manufacturing, combining linear X/Y/Z movement with a rotating and tilting print bed.
 
-![Toolpath playback and 3D navigation](docs/media/printing-demo-hd.gif)
+![Toolpath playback and 3D navigation](docs/media/printing-demo-rounded.gif)
 
 Current work covers virtual toolpath playback, machine motion and part orientation.
 The demonstrator supports studying multi-axis printing workflows before physical
@@ -14,4 +14,3 @@ The source code is maintained in a private repository.
 
 [Soun](https://github.com/soun26) · Mechanical Engineering
 
-<sub>Reference: [Fractal Robotics](https://github.com/fractalrobotics).</sub>
