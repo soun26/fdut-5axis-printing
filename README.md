@@ -3,9 +3,7 @@
 Research into print orientation and coordinated motion for plastic additive
 manufacturing, combining linear X/Y/Z movement with a rotating and tilting print bed.
 
-[![Toolpath playback and 3D navigation](docs/media/printing-demo.gif)](https://github.com/soun26/fdut-5axis-printing/blob/main/docs/media/printing-demo.mp4)
-
-[Watch the demo video →](https://github.com/soun26/fdut-5axis-printing/blob/main/docs/media/printing-demo.mp4)
+![Toolpath playback and 3D navigation](docs/media/printing-demo-hd.gif)
 
 Current work covers virtual toolpath playback, machine motion and part orientation.
 The demonstrator supports studying multi-axis printing workflows before physical
